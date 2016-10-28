@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1477650914 source:c:\users\paradoxa\desktop\work\dictionnaire\dictionnaire\gestbib.c
+	"primary.h"
+
+1477651315 source:c:\users\paradoxa\desktop\work\dictionnaire\dictionnaire\main.c
+	"primary.h"
+	"main.h"
+
+1477476723 c:\users\paradoxa\desktop\work\dictionnaire\dictionnaire\gestbib.h
+
+1477477021 source:c:\users\paradoxa\desktop\work\dictionnaire\dictionnaire\main1.c
+	"primary.h"
+	"gestbib.h"
+
+1477650914 c:\users\paradoxa\desktop\work\dictionnaire\dictionnaire\primary.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1477651315 c:\users\paradoxa\desktop\work\dictionnaire\dictionnaire\main.h
+
+1477651446 source:c:\users\paradoxa\desktop\work\dictionnaire\dictionnaire\gestexpr.c
+	"primary.h"
+
+1477651316 source:c:\users\paradoxa\desktop\work\dictionnaire\dictionnaire\gestorth.c
+	"primary.h"
+
+1477651315 source:c:\users\paradoxa\desktop\work\dictionnaire\dictionnaire\gestrech.c
+	"primary.h"
+
