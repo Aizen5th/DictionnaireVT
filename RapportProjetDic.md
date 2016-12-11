@@ -4,19 +4,19 @@
 
 ## Sujet du projet :
 
-	### Sujet 
+### Sujet 
 
-	### Liste des étudiants
+### Liste des étudiants
 
-	### Limite temporel et organisation
+### Limite temporel et organisation
 	
 ## Analyse rapide de l’application
  
-	### Liste des structures de données 
+### Liste des structures de données 
 
-	### Description des fonctions principales 
+### Description des fonctions principales 
 
-	### Choix d’implémentations
+### Choix d’implémentations
 
 ## Dossier d’installation de l’application
 
@@ -24,6 +24,6 @@
 
 ## Bilan du projet 
 
-	### Points non résolus
+### Points non résolus
 
-	### Difficultés techniques rencontrées
+### Difficultés techniques rencontrées
