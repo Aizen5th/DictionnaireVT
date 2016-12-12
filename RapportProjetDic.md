@@ -2,9 +2,16 @@
 
 # Introduction 
 
+
+
 ## Sujet du projet :
 
 ### Sujet 
+
+L'objectif de ce projet est de construire une **application** de gestion d'un dictionnaire au travers de
+nombreuses fonctionnalités de recherche. On considèrera ici qu'un dictionnaire est un simple ensemble
+de mots triés par ordre alphabétique, écrits dans un fichier les uns à la suite des autres séparés par un
+retour charriot.
 
 ### Liste des étudiants
 
