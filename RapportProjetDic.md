@@ -17,8 +17,7 @@ nombreuses fonctionnalités de recherche. On considèrera ici qu'un dictionnaire e
 de mots triés par ordre alphabétique, écrits dans un fichier les uns à la suite des autres séparés par un
 retour charriot.
 
-Construire un ensemble de fonctions permettant de :
-====================================================
+#### Construire un ensemble de fonctions permettant de :
 
 * Créer un fichier dictionnaire
 * Utiliser un dictionnaire existant
@@ -29,30 +28,27 @@ Construire un ensemble de fonctions permettant de :
 
 Ces fonctions devront être construites dans le fichier appelé gestbib.c et testées dans un programme appelé main1.c
 
-Recherche avancée
-===================================
+#### Recherche avancée
 
-Construire un ensemble de fonctions permettant de :
-====================================================
+#### Construire un ensemble de fonctions permettant de :
 
 * Proposer à l'utilisateur une liste de mots proches de celui qu'il utilise. (Levenshtein)
 * Fonctions permettant de rechercher et d'afficher une liste de mots proches d'un mot fourni par l'utilisateur.
 * Le seuil de proximité doit être choisi par l'utilisateur.
 * Ces fonctions devront être construites dans le fichier appelé gestrech.c et testées dans un programme appelé main2.c
 
-Proposition de correction
-===================================
+#### Proposition de correction
 
-Construire une liste de fonctions permettant de lire un fichier texte, et effectuant le travail suivant :
-=========================================================================================================
+
+#### Construire une liste de fonctions permettant de lire un fichier texte, et effectuant le travail suivant :
+
 
 * Afficher la liste des mots du fichier n'existant pas dans le dictionnaire, ainsi que la ligne du fichier où ils sont utilisés
 * Afficher la liste des mots n'existant pas dans le dictionnaire et proposer une liste de mots proches (seuil deux lettres maximum) pour chacun d'entre eux
 * Construire automatiquement un fichier corrigé, en remplaçant les mots erronés par la première suggestion de la liste (seuil une lettre maximum)
 * Ces fonctions devront être construites dans le fichier appelé gestorth.c et testées dans un programme appelé main3.c
 
-Recherche par expression régulière
-===================================
+#### Recherche par expression régulière
 
 Construire maintenant un ensemble de fonctions permettant de déclencher une recherche de mots dans le dictionnaire au travers d'une expression régulière. Le jeu d'expressions devra être un sous-ensemble de l'ensemble normalisé de ces expressions comme fourni en annexe.
 
