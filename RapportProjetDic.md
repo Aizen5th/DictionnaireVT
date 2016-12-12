@@ -70,10 +70,10 @@ Un projet GITHUB a été crée pour faciliter la livraison de chacunes des nouvelle
 ### Liste des structures de données 
 
 Pour la création d'un dictionnaire, il est judicieux de mettre en place une structure de liste chaînée :
-'typedef struct LinkedList {
-	char* word;
-	struct LinkedList* next;
-} s_LinkedList;'
+' typedef struct LinkedList {  
+	char* word;  
+	struct LinkedList* next;  
+} s_LinkedList; ' 
 ### Description des fonctions principales 
 
 ### Choix d’implémentations
