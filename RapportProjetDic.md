@@ -2,11 +2,11 @@
 
 # Introduction 
 
-Matière liée au projet : Langage C avancé
-Formations : 3ESGI - Mobilité et Objets Connectés || Ingénierie du Big Data || Groupe AL2
-Nombre d'étudiant par groupe : 2 à 4
-Règle de constitution de groupe : Imposé
-Charge de travail estimée par étudiant
+Matière liée au projet : Langage C avancé  
+Formations : 3ESGI - Groupe AL2  
+Nombre d'étudiant par groupe : 2 à 4  
+Règle de constitution de groupe : Imposé  
+Charge de travail estimée par étudiant  50h
 
 ## Sujet du projet :
 
@@ -50,13 +50,20 @@ Ces fonctions devront être construites dans le fichier appelé gestbib.c et testé
 
 #### Recherche par expression régulière
 
-Construire maintenant un ensemble de fonctions permettant de déclencher une recherche de mots dans le dictionnaire au travers d'une expression régulière. Le jeu d'expressions devra être un sous-ensemble de l'ensemble normalisé de ces expressions comme fourni en annexe.
+Construire maintenant un ensemble de fonctions permettant de déclencher une recherche de mots dans le dictionnaire au travers d'une expression régulière.  
+Le jeu d'expressions devra être un sous-ensemble de l'ensemble normalisé de ces expressions comme fourni en annexe. 
+Ces fonctions devront être construites dans le fichier appelé **gestexpr.c** et testées dans un programme appelé **main4.c**  
 
-Ces fonctions devront être construites dans le fichier appelé gestexpr.c et testées dans un programme appelé main4.c
+### Liste des étudiants  
 
-### Liste des étudiants
+Les étudiants concernés sont les suivants :  
+* KPONOU-JOHNSON Steven (Chef de projet)
+* MANTOPOULOS Louis (Developpeur)
+* MORGADO William (Developpeur)
 
-### Limite temporel et organisation
+### Limite temporel et organisation  
+
+Le production du projet est étalée sur une période de 2 mois. Le chef de projet analyse de façon général le projet, et réparti le travail entre les membres de l'équipe.  
 	
 ## Analyse rapide de l’application
  
